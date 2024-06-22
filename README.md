@@ -25,8 +25,9 @@ print(mhw_periods) #<-- results are condensated in a dataframe
 There is an example (`Test_Marine_Heat_Waves_detection.ipynb`) with an overview of how to use the pymhw package for analyzing marine heatwaves.
 
 **Key Steps:**
-Detect MHWs: Use the detect_MHW function to preprocess and detect potential MHW events in your SST data.
-Calculate MHW Periods: Use the calculate_mhw_periods function to identify and categorize MHW periods based on their intensity.
-Visualizing MHWs: Some example of graphics you can use.
-                                                                                                               
+- Detect MHWs: Use the detect_MHW function to preprocess and detect potential MHW events in your SST data.
+- Calculate MHW Periods: Use the calculate_mhw_periods function to identify and categorize MHW periods based on their intensity.
+- Visualizing MHWs: Some example of graphics you can use.
+
+**Attention**! This repository is still under construction!! <br>                                                                                                          
                                                                                                                
