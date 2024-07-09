@@ -1,7 +1,9 @@
 # pymhw
 **Attention**! Still under construction!! <br>
 
-pymhw is a Python package to calculate marine heatwaves (MHW) based on sea surface temperature (SST) data.
+pymhw is a Python package to calculate marine heatwaves (MHW) based on sea surface temperature (SST) data.<br><br>
+[![DOI](https://zenodo.org/badge/818381413.svg)](https://zenodo.org/doi/10.5281/zenodo.12700290)<br>
+Please, cite this DOI and check new releases.
 
 ## Installation
 
